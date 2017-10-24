@@ -1,5 +1,7 @@
 First of all be sure to have npm and node js installed. Then, run these commands :
 - `npm install`
+- `graphcool init --schema https://graphqlbin.com/hn-starter.graphql --name Hackernews` will open a new window in your browser, you have to login with to graphcool for create the graphql server
+- `npm start`
 
 
 
