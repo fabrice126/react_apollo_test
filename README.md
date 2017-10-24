@@ -1,3 +1,20 @@
+First of all be sure to have npm and node js installed. Then, run these commands :
+- `npm install`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
